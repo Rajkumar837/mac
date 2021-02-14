@@ -17,6 +17,8 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.release>${java.version}</maven.compiler.release>
+        <maven.compiler.source>1.8</maven.compiler.source> 
+        <maven.compiler.target>1.8</maven.compiler.target>
 
         <junit>5.6.2</junit>
         
